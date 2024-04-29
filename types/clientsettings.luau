@@ -19,3 +19,4 @@ export type UserChannelResponse = {
     channelAssignmentType: number,
 }
 
+return nil

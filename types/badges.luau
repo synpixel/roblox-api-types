@@ -107,3 +107,4 @@ export type BadgeAwardStatisticsResponse = {
     awardedCount: number,
 }
 
+return nil

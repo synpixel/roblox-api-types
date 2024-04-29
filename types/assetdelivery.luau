@@ -59,3 +59,4 @@ export type AssetFormatLocation = {
     location: string,
 }
 
+return nil

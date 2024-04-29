@@ -5,3 +5,4 @@ export type PayoutResponseModel = {
     payoutInRobux: number,
 }
 
+return nil

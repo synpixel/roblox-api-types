@@ -84,3 +84,4 @@ export type ItemTagsMetadataResponse = {
     enabledAssetTypes: { string },
 }
 
+return nil

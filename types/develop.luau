@@ -344,3 +344,4 @@ export type UniverseSettingsRequestV2 = {
     universeAnimationType: number,
 }
 
+return nil

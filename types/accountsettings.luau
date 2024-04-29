@@ -132,3 +132,4 @@ export type AppChatPrivacyRequest = {
     appChatPrivacy: number,
 }
 
+return nil

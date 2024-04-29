@@ -79,3 +79,4 @@ export type GetAnnouncementsResponse = {
     totalCollectionSize: number,
 }
 
+return nil

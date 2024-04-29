@@ -19,3 +19,4 @@ export type RecordThumbnailLoadRequest = {
     loadState: number,
 }
 
+return nil

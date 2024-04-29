@@ -84,3 +84,4 @@ export type TradeOfferResponse = {
     user: SkinnyUserResponse,
 }
 
+return nil

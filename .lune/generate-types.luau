@@ -195,6 +195,8 @@ for _, url in ROBLOX_WEB_APIS do
 		continue
 	end
 
+	output ..= "return nil"
+
 	fs.writeFile(`types/{name}.luau`, output)
 	stdio.write(`{stdio.color("cyan") .. "Built" .. stdio.color("reset")} {url} > types/{name}.luau\n`)
 end

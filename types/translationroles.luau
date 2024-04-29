@@ -32,3 +32,4 @@ export type GetGameLocalizationRoleAssignmentsForUserResponse = {
     nextPageCursor: string,
 }
 
+return nil

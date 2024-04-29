@@ -7,3 +7,4 @@ export type TranslationsResponse = {
     url: string,
 }
 
+return nil

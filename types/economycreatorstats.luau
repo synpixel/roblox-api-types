@@ -3,3 +3,4 @@ export type StatisticsResponse = {
     dataGranularity: number,
 }
 
+return nil

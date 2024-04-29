@@ -15,3 +15,4 @@ export type Stream = {
     CanSeek: boolean,
 }
 
+return nil

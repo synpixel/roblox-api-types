@@ -188,3 +188,4 @@ export type MultigetItemDetailsRequestItem = {
     id: number,
 }
 
+return nil

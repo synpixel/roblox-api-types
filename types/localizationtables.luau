@@ -252,3 +252,4 @@ export type UpdateTableContentsResponse = {
     modifiedEntriesAndTranslations: { ModifiedEntry },
 }
 
+return nil

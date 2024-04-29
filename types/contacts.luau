@@ -21,3 +21,4 @@ export type GetUserTagsResponseModel = {
     targetUserId: number,
 }
 
+return nil

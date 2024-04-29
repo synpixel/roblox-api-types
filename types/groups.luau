@@ -566,3 +566,4 @@ export type GroupWallPostV2Model = {
     poster: UserGroupRoleResponse,
 }
 
+return nil
