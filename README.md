@@ -1,2 +1,3 @@
 # roblox-api-types
-roblox api types ported to luau
+
+A collection of Luau type definitions for the Roblox web apis (thanks to https://github.com/matthewdean/roblox-web-apis for the full list of apis)
